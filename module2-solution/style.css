@@ -91,12 +91,12 @@
     }
   }
   
-  /* @media (min-width: 0px) and (max-width: 767px) {
-    .col-sm-12 {
+ @media (min-width: 0px) and (max-width: 767px) {
+    .cont1{
         float: left;
-      width: 100%;
+        width: 100%;
     }
     .content-name{
       margin-right: 30px;
     }
-  } */
+  }
